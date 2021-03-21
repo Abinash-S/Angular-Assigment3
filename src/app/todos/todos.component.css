@@ -1,0 +1,28 @@
+.heading {
+    text-align: center;
+    width: 90%;
+}
+
+.searchBar {
+    text-align: right;
+}
+
+table {
+    margin: auto;
+    margin-top: 3%;
+    width: 80%;
+    background-color: rgb(214, 225, 233);
+}
+
+.mat-form-field {
+    width: 20%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.searchBar button{
+    float:left;
+    margin-left: 11%;
+}
